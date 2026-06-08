@@ -1,0 +1,5 @@
+numpy
+plotly
+python-dotenv
+huggingface_hub
+python-docx

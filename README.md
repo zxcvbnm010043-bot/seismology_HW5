@@ -1,1 +1,10 @@
-# seismology_HW5
+---
+title: Earthquake Engineering
+emoji: 📉
+colorFrom: yellow
+colorTo: red
+sdk: gradio
+sdk_version: 6.12.0
+app_file: app.py
+pinned: false
+---
